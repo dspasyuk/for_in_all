@@ -1,5 +1,6 @@
 
-### Summary of the performance of different languages running a loop 1 billion times, formatted in GitHub-style markdown:
+### Summary of the performance of different languages running a loop 1 billion times:
+
 | Language                     | Average Time (seconds) |
 |------------------------------|------------------------|
 | **Java (OJDK 21.0.4)**       | 0.271                  |
