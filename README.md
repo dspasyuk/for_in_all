@@ -1,5 +1,5 @@
 
-### Summary of the performance of different languages running a loop 1 billion times:
+### Summary of the performance of different languages running a for loop 1 billion times:
 
 | Language                     | Average Time (seconds) |
 |------------------------------|------------------------|
