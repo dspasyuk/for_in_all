@@ -12,5 +12,6 @@
 | **Rust (1.79.0)**            | 4.054                  |
 | **Python 3.12.3**            | 80.378                 |
 
-![image](https://github.com/user-attachments/assets/8253c294-af69-4ae1-ad17-b187dbd99462)
+![image](https://github.com/user-attachments/assets/40eec63e-9b06-424a-b8a1-c1b877a8690b)
+
 [languagesperformance.xlsx](https://github.com/user-attachments/files/16490833/languagesperformance.xlsx)
