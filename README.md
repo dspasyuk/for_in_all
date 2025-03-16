@@ -4,13 +4,13 @@ Prime Summation Performance Benchmark
 This benchmark measures the execution time (in seconds) for computing the sum of all prime numbers up to 10,000,000 in different programming languages.
 Results (Lower is Better)  
 Language	Average Time (seconds)  
-Python 3.10.12	            - 75.97  
-JavaScript (Node v22.12.0)	- 9.75  
-Rust (1.84.0)	            - 9.88  
-C++ (g++ 13.2.0)	        - 9.96  
-C (gcc 13.2.0)	            - 9.91  
-Go (1.18.1)	             🚀 - 3.29  
-Java (OJDK 17.0.14)	        - 9.84  
+Python 3.10.12	            - 75.97 sec 
+JavaScript (Node v22.12.0)	- 9.75  sec 
+Rust (1.84.0)	            - 9.88  sec 
+C++ (g++ 13.2.0)	        - 9.96  sec 
+C (gcc 13.2.0)	            - 9.91  sec 
+Go (1.18.1)	             🚀 - 3.29  sec 
+Java (OJDK 17.0.14)	        - 9.84  sec 
 
 ![prime_sum](https://github.com/user-attachments/assets/16affc00-eb93-41cb-bfae-be48230163d0)
 
