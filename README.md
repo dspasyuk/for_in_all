@@ -21,7 +21,7 @@ go -   go build prim.go && ./prime
 Rust - rustc -O prime.rs -o prime && ./prime  
 Node - node prime.js  
 Python - python3 prime.py  
-Java  
+Java   - javac ./prime.java && java ./prime.class  
 
 
 The CPU used for this test is an AMD Ryzen 7 3700X 8-Core Processor. Here are its key specifications:
