@@ -14,6 +14,14 @@ Java (OJDK 17.0.14)	        - 9.84  sec
 
 ![prime_sum](https://github.com/user-attachments/assets/16affc00-eb93-41cb-bfae-be48230163d0)
 
+## Running the Code
+C -    gcc prime.c -o prime -lm && ./prime (with -O3 or without about the same)
+C++ -  g++ prime.cpp -o prime && ./prime
+go -   go build prim.go && ./prime
+Rust - rustc -O prime.rs -o prime && ./prime
+Node - node prime.js
+Python - python3 prime.py
+
 
 The CPU used for this test is an AMD Ryzen 7 3700X 8-Core Processor. Here are its key specifications:
 
